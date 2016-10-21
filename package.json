@@ -1,0 +1,11 @@
+{
+  "name": "redux-experiments",
+  "version": "0.0.0",
+  "description": "Feature flagging, A/B and multivariate testing for redux.",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:rangle/redux-experiments.git",
+    "type": "git"
+  },
+  "license": "MIT"
+}
