@@ -1,6 +1,6 @@
 {
   "name": "redux-experiments",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Feature flagging, A/B and multivariate testing for redux.",
   "main": "index.js",
   "repository": {
